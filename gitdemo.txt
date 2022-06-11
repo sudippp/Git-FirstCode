@@ -1,0 +1,11 @@
+git config --global user.name
+git config --global user.email
+git init
+git config --list
+ls
+git status
+git add index.html (for untrack files index.html to push in staging area)
+git commit ( web editor -- press i ---- initial commit --- Esc + : +  w + q )
+touch about.html (touch make the blank file )
+git add -A (for all untrack files to push in staging area )
+git commit -m "message for git"
