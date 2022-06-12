@@ -11,5 +11,7 @@ git add -A (for all untrack files to push in staging area )
 git commit -m "message for git"
 clear (for clear terminal)
 git checkout file.html(restore previous commit)
+-----------------------------------------------------------
 git checkout -f (restore all commit)
 git log(to show all commit)
+-----------------------------------------------------------
