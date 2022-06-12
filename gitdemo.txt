@@ -15,3 +15,5 @@ git checkout file.html(restore previous commit)
 git checkout -f (restore all commit)
 git log(to show all commit)
 -----------------------------------------------------------
+git branch newbranch (making new branch)
+git checkout newbranch (into new branch)
