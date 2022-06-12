@@ -17,3 +17,9 @@ git log(to show all commit)
 -----------------------------------------------------------
 git branch newbranch (making new branch)
 git checkout newbranch (into new branch)
+=================================
+clone and edit file
+girt clone path_source (Fork)
+cd path_
+vim file_name
+cat file_name
